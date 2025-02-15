@@ -1,0 +1,1 @@
+worker: python mashina_bot.py
